@@ -1,1 +1,1 @@
-# project-proposal
+# Aritzia shopping quiz
